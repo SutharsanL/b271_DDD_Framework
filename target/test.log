@@ -1,0 +1,94 @@
+[INFO ] 2024-10-28 21:27:04.431 [main] BaseClass - *********************Execution Start***************************
+[INFO ] 2024-10-28 21:27:05.530 [main] BaseClass - LoginWithValidCredentials is Skipped
+[INFO ] 2024-10-28 21:27:06.085 [main] BaseClass - *********************Execution completed***************************
+[INFO ] 2024-10-28 21:30:15.043 [main] BaseClass - *********************Execution Start***************************
+[INFO ] 2024-10-28 21:30:26.352 [main] BaseClass - By.id: id_username is visible
+[INFO ] 2024-10-28 21:30:26.465 [main] BaseClass - sutharsanis enetered inBy.id: id_username
+[INFO ] 2024-10-28 21:30:26.516 [main] BaseClass - By.id: id_password is visible
+[INFO ] 2024-10-28 21:30:26.656 [main] BaseClass - Seleniumis enetered inBy.id: id_password
+[INFO ] 2024-10-28 21:30:26.711 [main] BaseClass - By.xpath: //button[text()='Login'] is visible
+[INFO ] 2024-10-28 21:30:28.138 [main] BaseClass - By.xpath: //button[text()='Login'] is clicked
+[INFO ] 2024-10-28 21:30:28.191 [main] BaseClass - By.xpath: (//a[@class='nav-item nav-link'])[4] is visible
+[INFO ] 2024-10-28 21:30:28.239 [main] BaseClass - sutharsan is present
+[INFO ] 2024-10-28 21:30:28.243 [main] BaseClass - LoginWithValidCredentials is passed
+[INFO ] 2024-10-28 21:30:28.995 [main] BaseClass - *********************Execution completed***************************
+[INFO ] 2024-10-28 21:30:44.930 [main] BaseClass - *********************Execution Start***************************
+[INFO ] 2024-10-28 21:30:50.021 [main] BaseClass - By.id: id_username is visible
+[INFO ] 2024-10-28 21:30:50.133 [main] BaseClass - sutharsanis enetered inBy.id: id_username
+[INFO ] 2024-10-28 21:30:50.177 [main] BaseClass - By.id: id_password is visible
+[INFO ] 2024-10-28 21:30:50.285 [main] BaseClass - Seleniumis enetered inBy.id: id_password
+[INFO ] 2024-10-28 21:30:50.323 [main] BaseClass - By.xpath: //button[text()='Login'] is visible
+[INFO ] 2024-10-28 21:30:51.481 [main] BaseClass - By.xpath: //button[text()='Login'] is clicked
+[INFO ] 2024-10-28 21:30:51.530 [main] BaseClass - By.xpath: (//a[@class='nav-item nav-link'])[4] is visible
+[INFO ] 2024-10-28 21:30:51.570 [main] BaseClass - sutharsan is present
+[INFO ] 2024-10-28 21:30:51.578 [main] BaseClass - LoginWithValidCredentials is passed
+[INFO ] 2024-10-28 21:30:52.285 [main] BaseClass - *********************Execution completed***************************
+[INFO ] 2024-10-28 21:42:39.984 [main] BaseClass - *********************Execution Start***************************
+[INFO ] 2024-10-28 21:42:46.684 [main] BaseClass - By.id: id_username is visible
+[INFO ] 2024-10-28 21:42:46.826 [main] BaseClass - sutharsanis enetered inBy.id: id_username
+[INFO ] 2024-10-28 21:42:46.877 [main] BaseClass - By.id: id_password is visible
+[INFO ] 2024-10-28 21:42:47.000 [main] BaseClass - Seleniumis enetered inBy.id: id_password
+[INFO ] 2024-10-28 21:42:47.045 [main] BaseClass - By.xpath: //button[text()='Login'] is visible
+[INFO ] 2024-10-28 21:42:48.077 [main] BaseClass - By.xpath: //button[text()='Login'] is clicked
+[INFO ] 2024-10-28 21:42:48.124 [main] BaseClass - By.xpath: (//a[@class='nav-item nav-link'])[4] is visible
+[INFO ] 2024-10-28 21:42:48.164 [main] BaseClass - sutharsan is present
+[INFO ] 2024-10-28 21:42:48.172 [main] BaseClass - LoginWithValidCredentials is passed
+[INFO ] 2024-10-28 21:42:48.879 [main] BaseClass - *********************Execution completed***************************
+[INFO ] 2024-10-28 21:44:46.456 [main] BaseClass - *********************Execution Start***************************
+[INFO ] 2024-10-28 21:44:52.706 [main] BaseClass - By.id: id_username is visible
+[INFO ] 2024-10-28 21:44:52.814 [main] BaseClass - sutharsanis enetered inBy.id: id_username
+[INFO ] 2024-10-28 21:44:52.866 [main] BaseClass - By.id: id_password is visible
+[INFO ] 2024-10-28 21:44:52.985 [main] BaseClass - Seleniumis enetered inBy.id: id_password
+[INFO ] 2024-10-28 21:44:53.031 [main] BaseClass - By.xpath: //button[text()='Login'] is visible
+[INFO ] 2024-10-28 21:44:54.098 [main] BaseClass - By.xpath: //button[text()='Login'] is clicked
+[INFO ] 2024-10-28 21:44:54.144 [main] BaseClass - By.xpath: (//a[@class='nav-item nav-link'])[4] is visible
+[INFO ] 2024-10-28 21:44:54.201 [main] BaseClass - sutharsan is present
+[INFO ] 2024-10-28 21:44:54.211 [main] BaseClass - LoginWithValidCredentials is passed
+[INFO ] 2024-10-28 21:44:54.931 [main] BaseClass - *********************Execution completed***************************
+[INFO ] 2024-10-28 21:49:39.658 [main] BaseClass - *********************Execution Start***************************
+[INFO ] 2024-10-28 21:49:46.658 [main] BaseClass - By.id: id_username is visible
+[INFO ] 2024-10-28 21:49:46.791 [main] BaseClass - sutharsanis enetered inBy.id: id_username
+[INFO ] 2024-10-28 21:49:46.846 [main] BaseClass - By.id: id_password is visible
+[INFO ] 2024-10-28 21:49:46.989 [main] BaseClass - Seleniumis enetered inBy.id: id_password
+[INFO ] 2024-10-28 21:49:47.039 [main] BaseClass - By.xpath: //button[text()='Login'] is visible
+[INFO ] 2024-10-28 21:49:48.833 [main] BaseClass - By.xpath: //button[text()='Login'] is clicked
+[INFO ] 2024-10-28 21:49:48.893 [main] BaseClass - By.xpath: (//a[@class='nav-item nav-link'])[4] is visible
+[INFO ] 2024-10-28 21:49:48.936 [main] BaseClass - sutharsan is present
+[INFO ] 2024-10-28 21:49:48.946 [main] BaseClass - LoginWithValidCredentials is passed
+[INFO ] 2024-10-28 21:49:49.709 [main] BaseClass - *********************Execution completed***************************
+[INFO ] 2024-10-28 21:59:46.080 [main] BaseClass - *********************Execution Start***************************
+[INFO ] 2024-10-28 21:59:51.258 [main] BaseClass - By.id: id_username is visible
+[INFO ] 2024-10-28 21:59:51.356 [main] BaseClass - sutharsanis enetered inBy.id: id_username
+[INFO ] 2024-10-28 21:59:51.406 [main] BaseClass - By.id: id_password is visible
+[INFO ] 2024-10-28 21:59:51.536 [main] BaseClass - Seleniumis enetered inBy.id: id_password
+[INFO ] 2024-10-28 21:59:51.584 [main] BaseClass - By.xpath: //button[text()='Login'] is visible
+[INFO ] 2024-10-28 21:59:52.893 [main] BaseClass - By.xpath: //button[text()='Login'] is clicked
+[INFO ] 2024-10-28 21:59:52.955 [main] BaseClass - By.xpath: (//a[@class='nav-item nav-link'])[4] is visible
+[INFO ] 2024-10-28 21:59:53.001 [main] BaseClass - sutharsan is present
+[INFO ] 2024-10-28 21:59:53.010 [main] BaseClass - LoginWithValidCredentials is passed
+[INFO ] 2024-10-28 21:59:53.834 [main] BaseClass - *********************Execution completed***************************
+[INFO ] 2024-10-29 08:18:04.806 [main] BaseClass - *********************Execution Start***************************
+[INFO ] 2024-10-29 08:18:05.956 [main] BaseClass - LoginWithValidCredentials is Skipped
+[INFO ] 2024-10-29 08:18:06.561 [main] BaseClass - *********************Execution completed***************************
+[INFO ] 2024-10-29 08:19:24.361 [main] BaseClass - *********************Execution Start***************************
+[INFO ] 2024-10-29 08:19:33.967 [main] BaseClass - By.id: id_username is visible
+[INFO ] 2024-10-29 08:19:34.081 [main] BaseClass - sutharsanis enetered inBy.id: id_username
+[INFO ] 2024-10-29 08:19:34.133 [main] BaseClass - By.id: id_password is visible
+[INFO ] 2024-10-29 08:19:34.267 [main] BaseClass - Seleniumis enetered inBy.id: id_password
+[INFO ] 2024-10-29 08:19:34.313 [main] BaseClass - By.xpath: //button[text()='Login'] is visible
+[INFO ] 2024-10-29 08:19:35.302 [main] BaseClass - By.xpath: //button[text()='Login'] is clicked
+[INFO ] 2024-10-29 08:19:35.353 [main] BaseClass - By.xpath: (//a[@class='nav-item nav-link'])[4] is visible
+[INFO ] 2024-10-29 08:19:35.392 [main] BaseClass - sutharsan is present
+[INFO ] 2024-10-29 08:19:35.401 [main] BaseClass - LoginWithValidCredentials is passed
+[INFO ] 2024-10-29 08:19:36.424 [main] BaseClass - *********************Execution completed***************************
+[INFO ] 2024-10-29 08:20:21.928 [main] BaseClass - *********************Execution Start***************************
+[INFO ] 2024-10-29 08:20:29.040 [main] BaseClass - By.id: id_username is visible
+[INFO ] 2024-10-29 08:20:29.154 [main] BaseClass - sutharsanis enetered inBy.id: id_username
+[INFO ] 2024-10-29 08:20:29.224 [main] BaseClass - By.id: id_password is visible
+[INFO ] 2024-10-29 08:20:29.359 [main] BaseClass - Seleniumis enetered inBy.id: id_password
+[INFO ] 2024-10-29 08:20:29.406 [main] BaseClass - By.xpath: //button[text()='Login'] is visible
+[INFO ] 2024-10-29 08:20:30.336 [main] BaseClass - By.xpath: //button[text()='Login'] is clicked
+[INFO ] 2024-10-29 08:20:30.382 [main] BaseClass - By.xpath: (//a[@class='nav-item nav-link'])[4] is visible
+[INFO ] 2024-10-29 08:20:30.416 [main] BaseClass - sutharsan is present
+[INFO ] 2024-10-29 08:20:30.425 [main] BaseClass - LoginWithValidCredentials is passed
+[INFO ] 2024-10-29 08:20:31.412 [main] BaseClass - *********************Execution completed***************************
