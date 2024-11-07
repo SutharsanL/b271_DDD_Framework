@@ -1,6 +1,7 @@
 package com.vcentry.testcase;
 
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
@@ -10,7 +11,7 @@ import com.vcentry.utils.Function;
 
 public class LoginTest extends BaseClass{
      LoginPage login;
-	@BeforeClass
+	@BeforeMethod
 	public void launchUrl() {
 		driver.get(Function.getProp("loginUrl"));
 		login=new LoginPage();
@@ -39,6 +40,6 @@ public class LoginTest extends BaseClass{
 	
 	@DataProvider(name="inValidLogin")
 	public String[][] inValidLogin(){
-		return Function.getTestData("login", "invalidCredentails");
-	}
+		return Function.getTestData("login", "InvalidCredetials");
+	} 	
 }
